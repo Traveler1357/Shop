@@ -1,0 +1,15 @@
+# Folders
+target/
+classes/
+.gradle/
+build/
+logs/
+out/
+
+# IDEA
+.idea/
+
+# Eclipse
+.settings/
+*.classpath
+*.project
